@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 
 # 💫 About Me:
 I'm a Software Engineer Team Lead (2+ YoE) with an in-depth understanding of Full-Stack and Mobile Development working in a startup environment. In addition to designing and implementing scalable platforms and products, I've taken full responsibility for the whole process. Furthermore, I possess leadership principles as well.
